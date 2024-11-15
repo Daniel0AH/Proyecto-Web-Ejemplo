@@ -1,0 +1,12 @@
+# Ignorar archivos y carpetas generados por NetBeans y Maven
+
+# Ignora la carpeta nbproject de NetBeans
+nbproject/
+build/
+dist/
+
+# Ignora la carpeta target de Maven
+target/
+
+# Ignora la carpeta .m2 de Maven
+.m2/
