@@ -11,6 +11,11 @@ body {
     font-family: Arial, sans-serif;
 }
 
+/* Cambio en el color de los encabezados */
+h1, h2, h3 {
+    color: #333333; 
+}
+
 /* Estilos para los botones */
 button {
     background-color: #007bff;
